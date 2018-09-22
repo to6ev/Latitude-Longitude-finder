@@ -3,4 +3,5 @@ Latitude Longitude finder PHP Script
 
 Demo: http://tools.eti.pw/latitude-longitude-finder.php
 
-No need KEY from Google (https://cloud.google.com/maps-platform/maps)
+Keyless access to Google Maps Platform is deprecated since June 11th, 2018
+No need KEY from Google (https://cloud.google.com/maps-platform/maps) for this php script :)
